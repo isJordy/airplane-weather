@@ -1,16 +1,17 @@
-# airplane-weather
+# Predictive Modeling of Flight Departure Delays Using Weather Data
+## Objective
+Utilizing flight data from the U.S. Bureau of Transportation and weather data from the National Oceanic and Atmospheric Administration in 2019, a predictive model will be created to determine if a departing flight will
+experience delay, defined as a delay occuring 15 minutes or more after the scheduled departure time.
 
-Geordy Aponte
-Rochester Institute of Technology: DSCI 799
-Spring 2024
-Capstone Project
+### Checkpoints
+* Feb. 10 - Phase One: Imported data from https://www.kaggle.com/datasets/threnjen/2019-airline-delays-and-cancellations in order to briefly look and create a master datasets.
 
-This project is working with data from https://www.kaggle.com/datasets/threnjen/2019-airline-delays-and-cancellations in order to find what weather conditions affect departure delays
+* Feb. 14 - Phase Two: Create visualiation of datasets in order profile the data.
 
-Feb. 10 - Phase One: Imported data from https://www.kaggle.com/datasets/threnjen/2019-airline-delays-and-cancellations in order to briefly look and create a master datasets.
+* Mar. 23 - Phase Three: Research paper on methodolgies; no code needed.
 
-Feb. 14 - Phase Two: Create visualiation of datasets in order profile the data.
+* Apr. 24 - Phase Four: Develop models for formal project write up.
 
-Mar. 23 - Phase Three: Research paper on methodolgies; no code needed.
+### Created for Rochester Institute of Technology capstone project.
 
-Apr. 24 - Phase Four: Develop models for formal project write up.
+
